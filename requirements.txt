@@ -1,0 +1,5 @@
+streamlit
+pymupdf
+deep_translator
+gTTS
+numpy
